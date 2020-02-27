@@ -1,0 +1,8 @@
+**/node_modules
+**/public
+src/frontend/config/env.js
+**/build
+*.d.ts
+!.babelrc.js
+!.eslintrc.js
+giveaways.html
